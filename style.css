@@ -1,0 +1,16 @@
+.text_image_and_result{
+    background-color: grey;
+    width: 1000px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px black;
+    margin-left: 450px;
+}
+
+.image_responsive{
+    width: 200px;
+    height:300px;
+}
+
+.btn{
+    font-size: 20px;
+}
